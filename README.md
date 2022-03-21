@@ -28,7 +28,7 @@ A simple implementation of a color base tracker.
 
 ## Notes
 I strongly recommed trying this program whitn a solid color background and a good contrast between the colors.
-The camera may fail, dont know the reason, processing seems to not be able to recognize it from time to time.
+The camera may fail, I don't know the reason, processing seems to not be able to recognize it from time to time.
 
 ## REFERENCES
 https://github.com/otsedom/otsedom.github.io/blob/main/CIU/P6/README.md
